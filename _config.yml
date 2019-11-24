@@ -1,6 +1,6 @@
-remote_theme: stackbithq/stackbit-theme-fresh
 title: Tsunashima Ryuta
 baseurl: /
+destination: docs
 permalink: '/:title/'
 collections:
   posts:
