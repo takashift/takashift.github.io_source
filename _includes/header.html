@@ -20,17 +20,17 @@
           <p class="site-description">{{ site.header.tagline }}</p>
           {% endif %}
         </div><!-- .site-identity -->
-        {% if site.data.menus.main and site.header.has_nav %}
+        {% if site.menus.main and site.header.has_nav %}
         <button id="menu-toggle" class="menu-toggle"><span class="screen-reader-text">Menu</span><span class="icon-menu"
             aria-hidden="true"></span></button>
         {% endif %}
       </div><!-- .site-branding -->
-      {% if site.data.menus.main and site.header.has_nav %}
+      {% if site.menus.main and site.header.has_nav %}
       <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
         <div class="site-nav-wrap">
           <div class="site-nav-inside">
             <ul class="menu">
-              {% for item in site.data.menus.main %}
+              {% for item in site.menus.main %}
               <li class="menu-item {% if page.url == item.url %} current-menu-item{% endif %}">
                 <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
               </li>
