@@ -1,6 +1,6 @@
 title: Tsunashima Ryuta
 baseurl: /
-destination: docs
+destination: ../takashift.github.io/
 permalink: '/:title/'
 collections:
   posts:
