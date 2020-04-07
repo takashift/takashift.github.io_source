@@ -10,10 +10,11 @@ palette: blue
 header:
   title: 綱島隆太
   tagline: >
-    筑波大学大学院<br>
-    システム情報工学研究科<br>
-    コンピュータサイエンス専攻<br>
-    博士前期課程2年
+    筑波大学<br>
+    理工情報生命学術院<br>
+    システム情報工学研究群<br>
+    情報理工学位プログラム<br>
+    博士後期課程1年
   profile_img: images/It's me!!!!!.jpg
   bg: dark
   has_nav: true

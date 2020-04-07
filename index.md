@@ -10,7 +10,7 @@ sections:
   - section_id: About
     component: content_block.html
     type: contentblock
-    title:  綱島隆太（Tsunashima, Ryuta）
+    title:  綱島隆太（Tsunashima Ryuta）
     image: images/birthday.jpg
     content: >-
       <h1>Welcome to ようこそ このサイトへ</h1>
