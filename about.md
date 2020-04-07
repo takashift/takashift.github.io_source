@@ -12,7 +12,7 @@ layout: page
 綱島 隆太（Tsunashima, Ryuta）
 
 ## 学位(Degree)
-修士（工学）（筑波大学）
+修士（工学）（筑波大学）  
 M.Eng. University of Tsukuba
 
 ## 所属（Affiliation）
@@ -40,7 +40,7 @@ M.Eng. University of Tsukuba
 これまでに、マイコンと呼気センサーと無線アダプタを使った四肢麻痺患者向け家電操作リモコンの開発、機械学習による記述した意図（目的）の近い文章の抽出などを行ってきました。
 リモコンの方は、PIC少しとArduino、Zigbeeモジュールをいじっていました。機械学習の方は、Word2VecやDoc2Vec、scikit-learnなどを利用していました。
 
-現在は、GPUとFPGAを組み合わせた演算をOpenACCで記述できるようにするためのコンパイラーの開発を研究テーマとしています。
+現在は、HPC分野でGPUとFPGAを組み合わせた演算をOpenACCで記述できるようにするためのコンパイラーの開発を研究テーマとしています。
 これは、GPUとFPGAが両方搭載された筑波大学のスパコン Cygnus のように、複数のアクセラレータが搭載されているコンピューターを使いこなすために必要不可欠な技術です。
 筑波大学 計算科学研究センターにおける[アメリカのオークリッジ国立研究所（ORNL）](https://www.ornl.gov/)と[理化学研究所計算科学研究センター（R-CCS）](https://www.r-ccs.riken.jp/jp/)との共同研究の一端を担っています。
 
