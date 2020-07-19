@@ -1,6 +1,6 @@
 ---
 title: Academic Activity
-subtitle: 研究業績
+subtitle: 学術業績
 menus:
   main:
     weight: 3
@@ -8,8 +8,28 @@ menus:
 layout: page
 ---
 
-## 発表
+## 査読あり
+### 国際学会
+#### 口頭発表
+- Ryuta Tsunashima, Ryohei Kobayashi, Norihisa Fujita, Taisuke Boku, Seyong Lee, Jeffrey S. Vetter, Hitoshi Murai, Masahiro Nakao, Mitsuhisa Sato: OpenACC unified programming environment for GPU and FPGA multi-hybrid acceleration, HLPP 2020 Proceedings, HLPP 2020, (2020) .
+
+#### ポスター発表
 - Ryuta Tsunashima, Ryohei Kobayashi, Norihisa Fujita, Ayumi Nakamichi, Taisuke Boku, Seyong Lee, Jeffrey Vetter, Hitoshi Murai, Mitsuhisa Sato: Enabling OpenACC Programming on Multi-hybrid Accelerated with GPU and FPGA, HPC Asia 2020 Posters, (2020) .
-- 綱島隆太，小林諒平，藤田典久，中道安祐未，朴泰祐，Lee Seyong，Vetter Jeffrey，村井均，佐藤三久：GPU-FPGA協調プログラミングを実現するコンパイラの開発，情報処理学会研究報告，2019-HPC-172，（2019）．
+
+## 査読なし
+### 国際会議
+#### 口頭発表
 - Tsunashima, Ryuuta; Kobayashi, Ryohei; Fujita, Norihisa; Nakamichi, Ayumi; Boku, Taisuke: GPU-FPGA Heterogeneous Computing with Unified Programming Framework, OpenACC Annual Meeting 2019, (2019).
+
+### 研究会
+#### 口頭発表
+
+- 綱島隆太，小林諒平，藤田典久，中道安祐未，朴泰祐，Lee Seyong，Vetter Jeffrey，村井均，佐藤三久：GPU-FPGA協調プログラミングを実現するコンパイラの開発，情報処理学会研究報告，2019-HPC-172，（2019）．
 - 綱島隆太，小林諒平，藤田典久，中道安祐未，朴泰祐：GPU-FPGA 協調計算を記述するためのプログラミング環境に関する研究，情報処理学会研究報告，2019-HPC-169，（2019）．
+
+## 研究表彰
+- [情報処理学会 2020年度コンピュータサイエンス領域奨励賞（CS領域奨励賞）：  
+綱島隆太，GPU-FPGA協調プログラミングを実現するコンパイラの開発，2019-HPC-172](https://www.ipsj.or.jp/award/cs-awardee-2020.html)
+
+## 学業表彰
+- enPiT 筑波大ワークショップ 優秀賞：チーム「平成進捗Master」（2019年1月）
