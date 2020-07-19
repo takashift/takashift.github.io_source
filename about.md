@@ -11,7 +11,7 @@ layout: page
 ## 名前（Name）
 綱島 隆太（Tsunashima, Ryuta）
 
-## 学位(Degree)
+## 学位（Degree）
 修士（工学）（筑波大学）  
 M.Eng. University of Tsukuba
 
