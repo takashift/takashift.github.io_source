@@ -15,6 +15,7 @@ layout: page
 
 #### ポスター発表（Posters）
 - [Ryuta Tsunashima, Ryohei Kobayashi, Norihisa Fujita, Ayumi Nakamichi, Taisuke Boku, Seyong Lee, Jeffrey Vetter, Hitoshi Murai, Mitsuhisa Sato: Enabling OpenACC Programming on Multi-hybrid Accelerated Cluster with GPU and FPGA, HPC Asia 2020 Posters, (2020) .](http://sighpc.ipsj.or.jp/HPCAsia2020/hpcasia2020_posters/poster_36.pdf)
+- Ryuta Tsunashima, Ryohei Kobayashi, Norihisa Fujita, Taisuke Boku, Seyong Lee, Jeffrey Vetter, Hitoshi Murai, Masahiro Nakao, Mitsuhisa Sato: Multi-device Programming Environment for GPU and FPGA Cooperative Acceleration, The 3rd R-CCS International Symposium, (2021) .
 
 ## 査読なし（Non Peer-reviewed）
 ### 国際グループ会議（International Group Meeting）
