@@ -16,10 +16,13 @@ layout: page
 M.Eng. University of Tsukuba
 
 ## 所属（Affiliation）
-- 博士後期課程1年（First year in Doctor's program）  
+- 博士後期課程2年（Second year in Doctor's program）  
 [HPCS研究室](https://www.hpcs.cs.tsukuba.ac.jp/)（Architecture team）  
 [Graduate School of Science and Technology Degree Programs in Systems and Information Engineering](https://www.sie.tsukuba.ac.jp/)  
 [University of Tsukuba, Ibaraki, Japan](https://www.tsukuba.ac.jp/)
+- [理化学研究所（Riken） 大学院生リサーチ・アソシエイト（JRA: Junior Research Associate）](https://www.riken.jp/research/labs/r-ccs/program_env/index.html)  
+[計算科学研究センター（R-CCS）](https://www.r-ccs.riken.jp/)  
+[プログラミング環境研究チーム（Programming Environment Research Team）](https://pro-env.riken.jp/) 所属
 
 ## 学歴（Education）
 2011年04月 [東京都立産業技術高等専門学校](https://www.metro-cit.ac.jp/) ものづくり工学科 入学  
