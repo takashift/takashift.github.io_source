@@ -1,6 +1,6 @@
 ---
 title: About Me
-img_path: images/zannennakotoni_jidori.jpg
+img_path: images/zannennakotoni_jidori.JPG
 menus:
   main:
     weight: 2
